@@ -55,6 +55,8 @@ jobs:
     needs: test
     runs-on: ubuntu-latest
     steps:
+      - name: Print my name
+        run: echo "My name is Somyajit Saha "
       - name: Checkout source code
         uses: actions/checkout@v6
       - name: Check for sensitive files
