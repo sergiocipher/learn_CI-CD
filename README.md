@@ -1,5 +1,4 @@
 # learn_CI-CD
-# ⚡ hey-cicd — DevSecOps Dashboard
 
 ## 📁 Project Structure
 
